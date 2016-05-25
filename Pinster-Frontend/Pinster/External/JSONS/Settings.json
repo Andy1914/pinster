@@ -1,0 +1,48 @@
+[
+ [
+  {
+  "name": "Push Notification",
+  "image": "puch-notification-icon.png",
+  "nibname": "",
+  "type":"0"
+  },
+  {
+  "name": "Notification",
+  "image": "notifications-icon-blue.png",
+  "nibname": "",
+  "type":"0"
+  }
+ ],
+ [
+  {
+  "name": "Account Settings",
+  "image": "account-seting-icon.png",
+  "nibname": "PSAccountSettingsViewController",
+  "type":"1"
+  }
+  ],
+ [
+  {
+  "name": "Terms and Privacy",
+  "image": "",
+  "nibname": "PSTermsAndPrivecyViewController",
+  "type":"1"
+  }
+  ],
+ [
+  {
+  "name": "Rate this app",
+  "image": "",
+  "nibname": "",
+  "type":"2"
+  }
+  ],
+ [
+  {
+  "name": "Logout",
+  "image": "logout-icon.png",
+  "nibname": "",
+  "type":"2"
+  }
+  ]
+ ]

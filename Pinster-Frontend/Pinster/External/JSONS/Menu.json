@@ -1,0 +1,62 @@
+[
+ {
+ "name": "",
+ "image": "",
+ "nibname": "",
+ "selected":"0"
+ },
+ {
+ "name": "Home",
+ "image": "home",
+ "nibname": "PSHomeViewController",
+ "selected":"1"
+ },
+ {
+ "name": "Bookmarks",
+ "image": "my-pins-icon",
+ "nibname": "PSMyPinsViewController",
+ "selected":"1"
+ },
+ {
+ "name": "Received",
+ "image": "received-pins-icon",
+ "nibname": "PSMyPinsViewController",
+ "selected":"0"
+ },
+ {
+ "name": "Contacts",
+ "image": "contact-icon",
+ "nibname": "PSContactPickerViewController",
+  "selected":"0"
+ },
+ {
+ "name": "",
+ "image": "",
+ "nibname": "",
+ "selected":"0"
+ },
+ {
+ "name": "",
+ "image": "",
+ "nibname": "",
+ "selected":"0"
+ },
+ {
+ "name": "Notifications",
+ "image": "notifications-icon",
+ "nibname": "PSNotificationsViewController",
+ "selected":"0"
+ },
+ {
+ "name": "My Profile",
+ "image": "profile-icon",
+ "nibname": "PSMyProfileViewController",
+  "selected":"0"
+ },
+ {
+ "name": "Settings",
+ "image": "setting-icon",
+ "nibname": "PSSettingsViewController",
+ "selected":"0"
+ }
+ ]

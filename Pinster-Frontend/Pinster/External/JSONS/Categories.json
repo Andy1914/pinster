@@ -1,0 +1,38 @@
+[
+ {
+ "id" : "1",
+ "name": "Home & Personal",
+ "image": "home-pers-icon.png",
+ "count": "5"
+ },
+ {
+  "id" : "2",
+ "name": "Work & Office",
+ "image": "work-office-icon.png",
+ "count": "7"
+ },
+ {
+  "id" : "3",
+ "name": "Food & Restaurant",
+ "image": "food-restu-icon.png",
+ "count": "10"
+ },
+ {
+  "id" : "4",
+ "name": "Outdoors",
+ "image": "outdoors-icon.png",
+ "count": "11"
+ },
+ {
+  "id" : "5",
+ "name": "Nightlife",
+ "image": "night-life-icon.png",
+ "count": "15"
+ },
+ {
+  "id" : "6",
+ "name": "Shopping",
+ "image": "shopping-icon.png",
+ "count": "5"
+ }
+ ]

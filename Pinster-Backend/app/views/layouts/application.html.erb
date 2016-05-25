@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pinster</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  	<header>
+  		<%unless current_user%>
+  			<%=link_to "LOGIN",new_user_session_path%>
+  			<%=link_to "SIGN UP",new_user_registration_path%>	
+  			<%=link_to "LOGOUT",'/users/sign_out',:method=>"delete"%>
+            <br/>
+            or
+
+        <%= link_to "Sign in with Facebook", '/auth/facebook' %>
+      <%else%>
+			<%=link_to "PROFILE",edit_user_registration_path(current_user)%>
+
+			
+			<%end%>
+  	</header>
+
+	<div class="main-container">
+		<%= yield %>
+	</div>
+
+	<footer>
+		
+	</footer>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+ {
+ "name": "Home & Personal",
+ "date": "catagory_sample.png",
+ "nibname": "",
+ "count": "5"
+ },
+ {
+ "name": "Work & Office",
+ "image": "catagory_sample.png",
+ "nibname": "",
+ "count": "7"
+ },
+ {
+ "name": "Food & Restaurant",
+ "image": "catagory_sample.png",
+ "nibname": "",
+ "count": "10"
+ },
+ {
+ "name": "Potdoor",
+ "image": "catagory_sample.png",
+ "nibname": "",
+ "count": "11"
+ },
+ {
+ "name": "Nightlife",
+ "image": "catagory_sample.png",
+ "nibname": "",
+ "count": "15"
+ },
+ {
+ "name": "Shopping",
+ "image": "catagory_sample.png",
+ "nibname": "",
+ "count": "5"
+ },
+ ]

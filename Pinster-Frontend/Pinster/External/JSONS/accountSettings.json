@@ -1,0 +1,17 @@
+[
+ {
+ "name": "Edit Mobile Number",
+ "image": "edit-mobile-no icon.png",
+ "nibname": "PSMobileNumberViewController"
+ },
+ {
+ "name": "Change Password",
+ "image": "change-password-icon.png",
+ "nibname": "PSChangePassViewController"
+ },
+ {
+ "name": "Change Profile Picture",
+ "image": "change-proifle-pic-icon.png",
+ "nibname": "PSMyProfileViewController"
+ }
+ ]
